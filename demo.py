@@ -1,7 +1,5 @@
-def my_function():
-    a=5
-    b=6
+# demo.py
+def hello():
+    print("Hello World")   # TODO: remove debug
 
-    return d
-
-my_function()
+hello()
