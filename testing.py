@@ -9,5 +9,3 @@ def hello():
 
 
 hello()
-
-
