@@ -1,2 +1,8 @@
-print("Hello Dosto , How are you?")
-print("Today, I have learnt, how to push code in github")
+def hello():
+    """
+    This is demo
+    """
+    return "Hello Dosto"
+
+hello()
+
