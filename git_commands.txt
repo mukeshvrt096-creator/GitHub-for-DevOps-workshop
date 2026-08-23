@@ -1,0 +1,10 @@
+ls
+rm testing.py
+git init
+git status
+git add testing.py
+git rm --cached testing.py
+git commit -m "added testing files"
+git restore testing.py
+git branch -M main
+git push -u origin main
